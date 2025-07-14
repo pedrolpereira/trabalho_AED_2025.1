@@ -1,6 +1,6 @@
 # Trabalho de Algoritmos e Estruturas de Dados (AED)
 
-## Integrantes do Grupo
+## Aluno
 
 - Pedro Lannes Pereira
 
